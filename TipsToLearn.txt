@@ -1,0 +1,38 @@
+Agile 
+	
+Scrum 
+
+Kambam
+
+Gestores de configuración
+	Ansible
+	Chef
+	Puppet
+
+Conteiners
+	Docker
+
+Orquestación
+	Kubernetes
+
+Terraform
+	Prioridad
+Vagrant
+
+Jenkins
+
+Git
+
+AWS
+	Productos
+	IAM
+	EC2
+	S3
+	Auto scaling
+	VPC
+	Security Groups
+	Subnet
+	ASLs
+
+Acamica
+	
